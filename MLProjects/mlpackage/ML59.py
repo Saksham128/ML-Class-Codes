@@ -1,4 +1,3 @@
-#[5:15 PM] Jeetendra Singh
 import pandas as pd
 import matplotlib.pylab as plt
 from sklearn.linear_model import LinearRegression
