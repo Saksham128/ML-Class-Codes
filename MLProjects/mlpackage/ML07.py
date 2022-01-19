@@ -1,0 +1,5 @@
+name = input("Enter your name >")
+print("name is ",name)
+age=eval(input("Enter your age >"))
+print("Age is ",age)
+print(type(name))
